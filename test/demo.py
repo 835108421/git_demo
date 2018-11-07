@@ -6,7 +6,6 @@ def add(a,b):
     c = a + b
     return c
 
-add(11,21)
+add(11, 21)
+add(20, 30)
 
-
-add(50, 60)
