@@ -7,3 +7,6 @@ def add(a,b):
     return c
 
 add(11,21)
+
+
+add(50, 60)
